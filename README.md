@@ -81,9 +81,9 @@ Essa combinação de tecnologias acelera a regeneração do solo, melhora a taxa
 
 ### **Resumo das Conexões e Fluxo de Dados:**
 
-[rascunho](rasc.png)
+![rascunho](rasc.png)
 
-[fluxograma](fluxograma.png)
+![fluxograma](fluxograma.png)
 
 
 1. **Controle de Voo (STM32/ESP32)**  
