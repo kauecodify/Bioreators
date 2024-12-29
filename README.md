@@ -32,6 +32,15 @@ Essa combinação de tecnologias acelera a regeneração do solo, melhora a taxa
 
 ---
 
+### Interface Gráfica:
+
+---
+
+![image](https://github.com/user-attachments/assets/295a9a66-730e-4d8e-acbb-92fac584c280)
+
+
+---
+
 ### Microprocessadores Necessários:  
 
 ---
