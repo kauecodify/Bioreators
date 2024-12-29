@@ -14,7 +14,7 @@ Recuperar essas áreas é um processo lento, caro e muitas vezes ineficiente, da
 
 Além disso, a regeneração de solos pobres e contaminados é um desafio significativo, exigindo soluções que promovam a fertilidade e a sustentabilidade do ecossistema.
 
-[amazonia](amazonia.jpeg)
+[amazonia](amazonia.png)
 
 -------------------------------------------------------------------------------------------------------------------
 
